@@ -1,0 +1,114 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+/**************ARK LEAF*****************/
+h1 {
+    font-family: 'Comforter Brush', cursive;
+    margin-top: 0px;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 400px;
+}
+/**************A WEB DESIGNER*****************/
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+/**************CLOUD IMAGES*****************/
+.div1 {
+    color: red;
+    background-color: black;
+}
+.akatsuki1 {
+    width: 446px;
+    height: 260px;
+    position: absolute;
+}
+
+.akatsuki2 {
+    width: 406px;
+    height: 220px;
+    position: absolute;
+    left: 1300px;
+    bottom: 200px;
+}
+.akatsuki3 {
+    margin-left: 1400px;
+    bottom: 700px;
+    width: 223px;
+    height: 130px;
+    position: absolute;
+}
+.akatsuki4 {
+    margin-left: 600px;
+    bottom: 700px;
+    width: 115px;
+    height: 65px;
+    position: absolute;
+}
+.konoha {
+    border: solid black;
+    padding: solid;
+    margin: 0px;
+}
+/**************CLOUD IMAGES*****************/
+.middle-container {
+    background-color: black;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+.arkprofile {
+    text-align: center;
+}
+.bottom-conatainer {
+    background-color: black;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+.p2 {
+    color: red;
+}
+.p3 {
+    color: red;
+}
+.p4 {
+    color: red;
+}
+.p5 {
+    color: red;
+}
+.p6 {
+    color: red;
+}
+.h1 {
+    color: red;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
+}
+.h2 {
+    color: red;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
+}
+.h3 {
+    color: red;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
+}
+.h4 {
+    color: red;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
+}
+.h5 {
+    color: red;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
+}
+.h6 {
+    color: red;
+    font-family: 'Comforter Brush', cursive;
+    font-size: 50px;
+}
